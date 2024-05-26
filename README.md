@@ -1,4 +1,4 @@
-# Amazon QA Framework
+# QAutoFramework
 
 This framework is designed to perform automated testing on Amazon's website. It includes page objects, page actions, utility classes, and test classes.
 
